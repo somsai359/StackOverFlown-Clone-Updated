@@ -1,4 +1,4 @@
-# StackOverFlown-Clone-Updated
+# StackOverflowClone
 
 [![NPM](https://img.shields.io/static/v1?label=npm&message=>= 6.8.5&color=blue)](https://shields.io/)
 [![NODE](https://img.shields.io/static/v1?label=node&message=>= 10.12.8&color=success)](https://shields.io/)
@@ -23,6 +23,7 @@ As the name suggests, this project is a clone of a famous Q/A website for profes
   - [Tags](#tags)
 - [Demo](#demo)
   - [Video](#video---watch-the-video)
+  - [Images](#images)
 
 ## My Tech Stack (MERN)
 
@@ -102,3 +103,7 @@ _NOTE: Might take sometime to start as there will be 2 servers running._
 
 #### VIDEO - [Watch the video](https://drive.google.com/file/d/1A0B3JPUUY2snG8MLZpyz2LWhvThG2epn/view?usp=sharing)
   
+#### IMAGES
+<img src="/demo/images/1.png" width=340px /><img src="/demo/images/5.png" width=340px />
+<img src="/demo/images/3.png" width=340px /><img src="/demo/images/10.png" width=340px />
+<img src="/demo/images/7.png" width=340px /><img src="/demo/images/9.png" width=340px />
