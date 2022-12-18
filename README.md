@@ -23,7 +23,6 @@ As the name suggests, this project is a clone of a famous Q/A website for profes
   - [Tags](#tags)
 - [Demo](#demo)
   - [Video](#video---watch-the-video)
-  - [Images](#images)
 
 ## My Tech Stack (MERN)
 
