@@ -1,10 +1,4 @@
-# StackOverflowClone
 
-[![NPM](https://img.shields.io/static/v1?label=npm&message=>= 6.8.5&color=blue)](https://shields.io/)
-[![NODE](https://img.shields.io/static/v1?label=node&message=>= 10.12.8&color=success)](https://shields.io/)
-[![MYSQL](https://img.shields.io/static/v1?label=mysql&message=>= 8.0.10&color=blueviolet)](https://shields.io/)
-
-As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
 
 ## Table of Contents
 
